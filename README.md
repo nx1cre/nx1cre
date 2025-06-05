@@ -37,9 +37,8 @@
 
 ## 📫 Connect with Me
 
-- ✉️ Email: `your.email@example.com`
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://xx)
-- 🌐 Portfolio: [yourdomain.dev](https://xx) *(if you have one)*
+- ✉️ Email: `chris@lunrstudio.com`
+- 🌐 Portfolio: [yourdomain.dev](https://xx)
 
 ---
 
