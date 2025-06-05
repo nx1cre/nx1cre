@@ -1,9 +1,8 @@
 # 👋 Hey there, I’m Chris (Christopher Wade)
-
-🚗 Full-time Customer Service Advisor at FMG Repair Services  
+ 
 🎓 BSc Data Science student at The Open University  
 💻 Aspiring Data Scientist | Python Developer | Tech Enthusiast  
-🐱 Cat dad to Leah & Tiger | Based in Bournemouth, UK  
+🐱 Cat dad to Leah & Tiger | Based in UK  
 
 ---
 
